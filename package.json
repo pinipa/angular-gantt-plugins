@@ -18,5 +18,5 @@
     "chart",
     "angularjs"
   ],
-  "main": "angular-gantt-plugins.js",
+  "main": "angular-gantt-plugins.js"
 }
